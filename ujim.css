@@ -3,5 +3,13 @@ body {
 
 }
 body {
+	background: silver;
+}
+h1 {
 
+}
+section {
+	background: white;
+	max-width: 800px;
+	margin: 0 auto;
 }
